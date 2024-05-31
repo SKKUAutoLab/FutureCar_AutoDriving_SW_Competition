@@ -1,0 +1,16 @@
+■ 교육영상을 따라 아래 링크에서 설치파일을 다운로드 받으세요.
+
+1. 라이다 드라이버 다운로드 링크:
+  ☞ https://github.com/Slamtec/rplidar_sdk/raw/master/tools/cp2102_driver/CP210x_Windows_Drivers.zip
+
+
+2. 파이참 다운로드 링크 (2022.1.4 버전 설치할 것):
+  ☞ https://www.jetbrains.com/ko-kr/pycharm/download/other.html
+
+
+3. 파이썬 다운로드 링크 (3.9.13 버전 설치할 것):
+  ☞ https://www.python.org/downloads/windows/
+
+
+4. 아두이노 IDE 설치 (1.8.19 버전 설치할 것):
+  ☞ https://www.arduino.cc/en/software
