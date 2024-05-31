@@ -4,13 +4,17 @@
   ☞ https://github.com/Slamtec/rplidar_sdk/raw/master/tools/cp2102_driver/CP210x_Windows_Drivers.zip
 
 
-2. 파이참 다운로드 링크 (2022.1.4 버전 설치할 것):
-  ☞ https://www.jetbrains.com/ko-kr/pycharm/download/other.html
+2. 아두이노 IDE 설치 (1.8.19 버전 설치할 것):
+  ☞ https://www.arduino.cc/en/software
 
 
 3. 파이썬 다운로드 링크 (3.9.13 버전 설치할 것):
   ☞ https://www.python.org/downloads/windows/
 
 
-4. 아두이노 IDE 설치 (1.8.19 버전 설치할 것):
-  ☞ https://www.arduino.cc/en/software
+4. 파이참 다운로드 링크 (2022.1.4 버전 설치할 것):
+  ☞ https://www.jetbrains.com/ko-kr/pycharm/download/other.html
+
+
+
+
