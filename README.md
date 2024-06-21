@@ -1,5 +1,4 @@
-![image](https://github.com/SKKUAutoLab/FutureCar_AutoDriving_SW_Competition/assets/98069142/1bde7f64-ae60-4cd0-ad79-4ed3e58c073e)
-  
+
   
 
 ```
