@@ -1,6 +1,5 @@
-
+![image](https://github.com/SKKUAutoLab/FutureCar_AutoDriving_SW_Competition/assets/98069142/f478165b-5bd4-4b1e-a0d7-3b016ddbb0a1)
   
-
 ```
 pdf를 다운로드하면 하이퍼링크가 활성화됩니다.
 ```
